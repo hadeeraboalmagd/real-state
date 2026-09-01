@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hadeeraboalmagd.github.io/real-state/sitemap.xml
